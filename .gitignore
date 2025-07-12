@@ -3,3 +3,4 @@
 logs.txt
 /ultralight-deps
 /.idea/
+/frontend/package-lock.json

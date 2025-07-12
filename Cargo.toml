@@ -72,3 +72,9 @@ panic = "abort"
 opt-level = 3
 codegen-units = 1
 debug = false
+
+[patch.crates-io]
+wgpu = { path = "yanked-crates/wgpu-0.18.0" }
+wgpu-core = { path = "yanked-crates/wgpu-core-0.18.0" }
+wgpu-types = { path = "yanked-crates/wgpu-types-0.18.0" }
+wgpu-hal = { path = "yanked-crates/wgpu-hal-0.18.0" }

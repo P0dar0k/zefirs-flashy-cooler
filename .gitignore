@@ -8,3 +8,4 @@ logs.txt
 /resources/cacert.pem
 /resources/icudt67l.dat
 /ultralight-deps
+/.idea/
